@@ -1,4 +1,4 @@
-# Excel---Data-Analysis-Dashboard-Project
+# Excel-Data-Analysis-Dashboard-Project
 
 This repository contains my work in Microsoft Excel.
 
